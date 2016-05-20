@@ -1,0 +1,5 @@
+name: NPCApi
+main: de.notaviable.npcs.NPCLib
+description: NPC Library
+version: 0.1a
+depend: [ProtocolLib]
