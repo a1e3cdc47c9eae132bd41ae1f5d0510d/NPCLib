@@ -1,4 +1,4 @@
-name: NPCApi
+name: NPCLib
 main: de.notaviable.npcs.NPCLib
 description: NPC Library
 version: 0.1a
